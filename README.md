@@ -1,5 +1,3 @@
-# Task-1-MANIVARSHA
-REPOSITORY FOR TASK1
 # Titanic Data Science Project
 
 ## Project Overview
